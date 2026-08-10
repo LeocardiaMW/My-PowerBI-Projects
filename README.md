@@ -75,3 +75,6 @@ A strong focus was placed on transforming complex datasets into clear and action
 ## Project Outcome
 
 Successfully delivered an interactive Power BI reporting solution that transformed raw retail and sales data into meaningful business insights through effective data modelling, visualization, and storytelling techniques. The dashboard enables users to explore sales performance, identify trends, and make informed business decisions through interactive and visually engaging reports.
+
+## My Dashboard
+[Link To My Report](https://app.powerbi.com/view?r=eyJrIjoiMzU1MjVkNmYtNjI3Ny00NDc4LWIxNmItOGFjNWI3NzA2YjY2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
