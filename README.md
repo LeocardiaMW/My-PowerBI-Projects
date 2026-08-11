@@ -1,4 +1,4 @@
-# Power BI Dashboard Project
+# Power BI Project
 
 ## Overview
 
@@ -44,7 +44,9 @@ Developed a variety of visualizations to communicate key insights, including:
 - Pie Charts for category and segment distribution analysis.
 - Maps for geographic sales analysis.
 - Additional KPI and summary visuals to highlight business performance.
-<img width="572" height="319" alt="image" src="https://github.com/user-attachments/assets/10889cd7-902b-4e40-ad52-f3fee3194a17" />
+<img width="559" height="316" alt="image" src="https://github.com/user-attachments/assets/8b90dbf6-a03d-4981-9e6d-98b726c1d14b" />
+
+<img width="434" height="105" alt="image" src="https://github.com/user-attachments/assets/15ba4918-be8b-4323-873b-bdd89b634a8e" />
 
 ## Data Storytelling
 
