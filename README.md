@@ -44,9 +44,6 @@ Developed a variety of visualizations to communicate key insights, including:
 - Pie Charts for category and segment distribution analysis.
 - Maps for geographic sales analysis.
 - Additional KPI and summary visuals to highlight business performance.
-<img width="559" height="316" alt="image" src="https://github.com/user-attachments/assets/8b90dbf6-a03d-4981-9e6d-98b726c1d14b" />
-
-<img width="434" height="105" alt="image" src="https://github.com/user-attachments/assets/15ba4918-be8b-4323-873b-bdd89b634a8e" />
 
 ## Data Storytelling
 
@@ -80,3 +77,8 @@ Successfully delivered an interactive Power BI reporting solution that transform
 
 ## My Dashboard
 [Link To My Report](https://app.powerbi.com/view?r=eyJrIjoiMzU1MjVkNmYtNjI3Ny00NDc4LWIxNmItOGFjNWI3NzA2YjY2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="416" height="116" alt="image" src="https://github.com/user-attachments/assets/3bf01b9b-61a0-4e87-8f5c-64da1c7768ab" />
+
+<img width="538" height="305" alt="image" src="https://github.com/user-attachments/assets/a0489519-245c-4dbd-a811-7857bb3365c5" />
+
