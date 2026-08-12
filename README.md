@@ -80,4 +80,6 @@ Successfully delivered an interactive Power BI reporting solution that transform
 
 <img width="594" height="183" alt="image" src="https://github.com/user-attachments/assets/b8c72f98-00d8-4b51-b7bc-56e1a9b4e050" />
 <br><br>
-<img width="697" height="331" alt="image" src="https://github.com/user-attachments/assets/a35a078b-ee60-4c25-8e53-eb175f245238" />
+<img width="641" height="361" alt="image" src="https://github.com/user-attachments/assets/d3e043c5-7500-46a9-b66e-4c4e8d6378e6" />
+<br><br>
+<img width="692" height="359" alt="image" src="https://github.com/user-attachments/assets/e292d5a1-5e6a-4206-99e8-0e653fc2c6ad" />
