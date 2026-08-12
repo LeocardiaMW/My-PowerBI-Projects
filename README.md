@@ -75,10 +75,9 @@ A strong focus was placed on transforming complex datasets into clear and action
 
 Successfully delivered an interactive Power BI reporting solution that transformed raw retail and sales data into meaningful business insights through effective data modelling, visualization, and storytelling techniques. The dashboard enables users to explore sales performance, identify trends, and make informed business decisions through interactive and visually engaging reports.
 
-## My Dashboard
+## ✨📸My Dashboard
 [Link To My Report](https://app.powerbi.com/view?r=eyJrIjoiMzU1MjVkNmYtNjI3Ny00NDc4LWIxNmItOGFjNWI3NzA2YjY2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
-<img width="416" height="116" alt="image" src="https://github.com/user-attachments/assets/3bf01b9b-61a0-4e87-8f5c-64da1c7768ab" />
-
-<img width="538" height="305" alt="image" src="https://github.com/user-attachments/assets/a0489519-245c-4dbd-a811-7857bb3365c5" />
-
+<img width="594" height="183" alt="image" src="https://github.com/user-attachments/assets/b8c72f98-00d8-4b51-b7bc-56e1a9b4e050" />
+<br><br>
+<img width="697" height="331" alt="image" src="https://github.com/user-attachments/assets/a35a078b-ee60-4c25-8e53-eb175f245238" />
